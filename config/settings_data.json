@@ -1066,21 +1066,21 @@
             "type": "footer_link",
             "settings": {
               "footer_title": "Services",
-              "footer_linklist": "services"
+              "footer_linklist": ""
             }
           },
           "1541579687499": {
             "type": "footer_link",
             "settings": {
               "footer_title": "Company",
-              "footer_linklist": "company"
+              "footer_linklist": ""
             }
           },
           "1541579706355": {
             "type": "footer_link",
             "settings": {
               "footer_title": "help",
-              "footer_linklist": "help"
+              "footer_linklist": ""
             }
           }
         },
@@ -1141,10 +1141,7 @@
           "payment_display_stripe": false,
           "payment_display_sage": false,
           "payment_display_wallet": false,
-          "payment_display_western": false,
-          "icon_visa": "shopify:\/\/shop_images\/visa_1.png",
-          "icon_master": "shopify:\/\/shop_images\/mastercard_1.png",
-          "icon_paypal": "shopify:\/\/shop_images\/paypal.png"
+          "payment_display_western": false
         }
       },
       "recently-viewed-products": {
@@ -1878,7 +1875,6 @@
           "e9206ce5-aece-4da6-9bc0-6b2303d9e4a2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nfl-small.png",
               "title": "",
               "link": ""
             }
@@ -1886,7 +1882,6 @@
           "fafcf248-7b68-4ae8-889a-bc592467b0b7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nfl-small.png",
               "title": "Loremous",
               "link": ""
             }
@@ -1894,7 +1889,6 @@
           "1807fd66-e453-4e50-8f1d-4fd6b56eb587": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nfl-small.png",
               "title": "Loremous",
               "link": ""
             }
@@ -1902,7 +1896,20 @@
           "3d6b789e-298b-4a06-a0c3-81fc8a1701e4": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/nfl-small.png",
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "2d4b14cd-b084-4823-a54f-dd652bd7b96d": {
+            "type": "image",
+            "settings": {
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "f1afc052-d4dd-4ba1-9bb4-33b282ebef9f": {
+            "type": "image",
+            "settings": {
               "title": "Loremous",
               "link": ""
             }
@@ -1912,7 +1919,9 @@
           "e9206ce5-aece-4da6-9bc0-6b2303d9e4a2",
           "fafcf248-7b68-4ae8-889a-bc592467b0b7",
           "1807fd66-e453-4e50-8f1d-4fd6b56eb587",
-          "3d6b789e-298b-4a06-a0c3-81fc8a1701e4"
+          "3d6b789e-298b-4a06-a0c3-81fc8a1701e4",
+          "2d4b14cd-b084-4823-a54f-dd652bd7b96d",
+          "f1afc052-d4dd-4ba1-9bb4-33b282ebef9f"
         ],
         "settings": {
           "layout": "default",
@@ -1936,8 +1945,7 @@
           "1634540174a77af39e-0": {
             "type": "largeImg",
             "settings": {
-              "image": "shopify:\/\/shop_images\/b1.png",
-              "image_mb": "shopify:\/\/shop_images\/b1.png",
+              "image": "shopify:\/\/shop_images\/OIP-C.jpg",
               "display_parallax": false,
               "dpl_down_arrow": false,
               "height_img_parallax": "970px",
@@ -2012,7 +2020,6 @@
           "c5de144d-82d2-4a4e-8419-5a396910bdbf": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/cool-caps.png",
               "collection": "mitchell-ness-jacket-and-hoodies",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2023,7 +2030,6 @@
           "4abb7225-d35b-4c7b-b270-58216fc93324": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/cool-caps.png",
               "collection": "hot-right-now",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2053,8 +2059,6 @@
           "163454670817c32bb9-0": {
             "type": "largeImg",
             "settings": {
-              "image": "shopify:\/\/shop_images\/b4.png",
-              "image_mb": "shopify:\/\/shop_images\/b4.png",
               "display_parallax": false,
               "dpl_down_arrow": false,
               "height_img_parallax": "970px",
@@ -2111,7 +2115,6 @@
           "51203f3b-8d10-4f02-bbde-a4e50ee5defb": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/jersey_adobespark.png",
               "collection": "arizona-diamondbacks",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2122,7 +2125,6 @@
           "c26022e5-8a41-444c-a55c-9189386f531d": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/jersey_adobespark.png",
               "collection": "mlb-custom-fitted-baseball-hats-and-caps",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2133,7 +2135,6 @@
           "74a76082-d38e-4909-8e62-02de92d8bf12": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/jersey_adobespark.png",
               "collection": "nba-mitchell-ness-jerseys-and-shorts",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2144,7 +2145,6 @@
           "a5940f23-52bf-4e41-9754-b9e532997909": {
             "type": "collection",
             "settings": {
-              "image": "shopify:\/\/shop_images\/jersey_adobespark.png",
               "collection": "pin",
               "color": "#ffffff",
               "bg_button": "#ffffff",
@@ -2176,7 +2176,6 @@
           "1634743456872800cd-0": {
             "type": "largeImg",
             "settings": {
-              "image": "shopify:\/\/shop_images\/b2.png",
               "display_parallax": false,
               "dpl_down_arrow": false,
               "height_img_parallax": "970px",
@@ -2233,7 +2232,6 @@
           "16347434883a3dfacb-0": {
             "type": "largeImg",
             "settings": {
-              "image": "shopify:\/\/shop_images\/b3.png",
               "display_parallax": false,
               "dpl_down_arrow": false,
               "height_img_parallax": "970px",
@@ -2626,9 +2624,7 @@
           "brand_text": "",
           "logo_max_width": 50,
           "logo_text_color": "#000000",
-          "logo_pc": "shopify:\/\/shop_images\/LOGO_PNG_180x_1.png",
           "max_height_logo_pc": "140px",
-          "logo": "shopify:\/\/shop_images\/LOGO_PNG_180x_1.png",
           "max_height_logo_mb": "95px",
           "bg_header_bottom_color": "#ffffff",
           "header_bottom_link_color": "#232323",
@@ -2655,9 +2651,7 @@
             "type": "style_2",
             "settings": {
               "megamenu_items_2": "MLB",
-              "banner_first_style_2": "shopify:\/\/shop_images\/b2.png",
               "link_banner_first_style_2": "shopify:\/\/collections\/hot-right-now",
-              "banner_second_style_2": "shopify:\/\/shop_images\/jersey.png",
               "link_banner_second_style_2": "shopify:\/\/collections\/mitchell-ness-jacket-and-hoodies",
               "link_banner_third_style_2": "shopify:\/\/collections\/mlb-custom-fitted-baseball-hats-and-caps"
             }
@@ -2668,15 +2662,14 @@
         ],
         "settings": {
           "display_fixtop_menu": true,
-          "logo_fix": "shopify:\/\/shop_images\/LOGO_PNG_180x_1.png",
-          "horizontal_linklist": "mega-menu",
+          "horizontal_linklist": "",
           "text_help": "",
           "text_help_link": "",
           "color_text_right": "#ffffff",
           "color_icon_right": "#0a6cdc",
           "color_text_right_line": "#3e4093",
           "display_vertical_menu": false,
-          "vertical_linklist": "mlb",
+          "vertical_linklist": "",
           "bg_color_hover_menu_vertical": "#fd6506",
           "color_hover_text_menu_vertical": "#ffffff",
           "categories_title": "Categories",
@@ -2816,7 +2809,6 @@
           "1634919786984871b5-0": {
             "type": "image",
             "settings": {
-              "image_new": "shopify:\/\/shop_images\/b5.png",
               "banner_title": "Newsletter Via email",
               "font_size_banner_title": "20px",
               "color_banner_title": "#ffffff",
